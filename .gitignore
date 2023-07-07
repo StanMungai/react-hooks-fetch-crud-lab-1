@@ -26,4 +26,4 @@ yarn-error.log*
 .results.json
 
 # Ignore ESLint files
-.eslintcache
+#.eslintcache
